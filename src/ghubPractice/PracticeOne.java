@@ -13,4 +13,9 @@ public class PracticeOne
 	{
 		System.out.println("hello");
 	}
+	
+	public static void bye()
+	{
+		System.out.println("bye");
+	}
 }
