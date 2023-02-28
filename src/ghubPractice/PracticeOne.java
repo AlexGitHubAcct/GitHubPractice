@@ -14,6 +14,11 @@ public class PracticeOne
 		System.out.println("hello");
 	}
 	
+	public static void afternoon()
+	{
+		System.out.println("good afternoon");
+	}
+	
 	public static void bye()
 	{
 		System.out.println("bye");
