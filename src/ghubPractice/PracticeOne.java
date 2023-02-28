@@ -8,4 +8,9 @@ public class PracticeOne
 		
 		System.out.println("hello people");
 	}
+	
+	public static void hello()
+	{
+		System.out.println("hello");
+	}
 }
